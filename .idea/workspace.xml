@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="41788e9c-adfd-4588-9d6a-9b0572eddfc1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:\DevelopSoftware\IDEA2020.2\IntelliJ IDEA 2020.2\plugins\maven\lib\maven3" />
+        <option name="userSettingsFile" value="D:\Resource\java-environment\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1muoJFtb2CzHyYOAlbzbjnwqQJz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.onestar.config" />
+      <recent name="com.onestar.bean" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.MainTest.TestMain (2)">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTest.TestMain (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="01-Configuration" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MainTest" />
+      <option name="METHOD_NAME" value="TestMain" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTest.TestMain (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="02-ComponentScan" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MainTest" />
+      <option name="METHOD_NAME" value="TestMain" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTest.TestMain" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-annotation" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MainTest" />
+      <option name="METHOD_NAME" value="TestMain" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MainTest.TestMain (2)" />
+        <item itemvalue="JUnit.MainTest.TestMain (1)" />
+        <item itemvalue="JUnit.MainTest.TestMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="41788e9c-adfd-4588-9d6a-9b0572eddfc1" name="Default Changelist" comment="" />
+      <created>1610352763965</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610352763965</updated>
+      <workItem from="1610352765171" duration="5144000" />
+      <workItem from="1610413992180" duration="664000" />
+      <workItem from="1610498233119" duration="10662000" />
+      <workItem from="1610584673168" duration="11906000" />
+      <workItem from="1610671718811" duration="35351000" />
+      <workItem from="1610757545681" duration="12616000" />
+      <workItem from="1610887437615" duration="1842000" />
+      <workItem from="1610932528554" duration="2366000" />
+      <workItem from="1610951010970" duration="1849000" />
+      <workItem from="1610952875360" duration="7022000" />
+      <workItem from="1611018709851" duration="980000" />
+      <workItem from="1611027193287" duration="7775000" />
+      <workItem from="1611106051357" duration="2044000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1038" y="346" key="#com.intellij.ide.util.MemberChooser" timestamp="1610720724259">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1038" y="346" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1610720724259" />
+    <state width="2507" height="509" key="GridCell.Tab.0.bottom" timestamp="1611107846252">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2507" height="509" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1611107846252" />
+    <state width="2507" height="509" key="GridCell.Tab.0.center" timestamp="1611107846252">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2507" height="509" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1611107846252" />
+    <state width="2507" height="509" key="GridCell.Tab.0.left" timestamp="1611107846252">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2507" height="509" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1611107846252" />
+    <state width="2507" height="509" key="GridCell.Tab.0.right" timestamp="1611107846252">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2507" height="509" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1611107846252" />
+    <state x="664" y="258" key="SettingsEditor" timestamp="1611108107281">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="664" y="258" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1611108107281" />
+    <state x="542" y="250" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1610720999619">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="542" y="250" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1610720999619" />
+    <state x="478" y="282" key="new project wizard" timestamp="1611048314322">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="478" y="282" key="new project wizard/0.0.2560.1400@0.0.2560.1400" timestamp="1611048314322" />
+    <state x="859" y="308" width="840" height="1034" key="search.everywhere.popup" timestamp="1610713409750">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="859" y="308" width="840" height="1034" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1610713409750" />
+  </component>
+</project>
