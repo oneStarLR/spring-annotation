@@ -3,12 +3,62 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="41788e9c-adfd-4588-9d6a-9b0572eddfc1" name="Default Changelist" comment="" />
+    <list default="true" id="41788e9c-adfd-4588-9d6a-9b0572eddfc1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-Scope/03-Scope.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-Scope/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-Scope/src/main/java/com/onestar/bean/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-Scope/src/main/java/com/onestar/config/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-Scope/src/test/java/MainTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Configuration/target/classes/com/onestar/bean/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/01-Configuration/target/classes/com/onestar/bean/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Configuration/target/classes/com/onestar/bean/User2.class" beforeDir="false" afterPath="$PROJECT_DIR$/01-Configuration/target/classes/com/onestar/bean/User2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Configuration/target/classes/com/onestar/config/AppConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/01-Configuration/target/classes/com/onestar/config/AppConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Configuration/target/test-classes/MainTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/01-Configuration/target/test-classes/MainTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-ComponentScan/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/02-ComponentScan/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-ComponentScan/target/classes/com/onestar/config/AppConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/02-ComponentScan/target/classes/com/onestar/config/AppConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-ComponentScan/target/classes/com/onestar/config/MyTypeFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/02-ComponentScan/target/classes/com/onestar/config/MyTypeFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-ComponentScan/target/classes/com/onestar/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/02-ComponentScan/target/classes/com/onestar/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-ComponentScan/target/classes/com/onestar/dao/UserDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/02-ComponentScan/target/classes/com/onestar/dao/UserDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-ComponentScan/target/classes/com/onestar/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/02-ComponentScan/target/classes/com/onestar/service/UserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-ComponentScan/target/test-classes/MainTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/02-ComponentScan/target/test-classes/MainTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-annotation.iml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+    <option name="PARALLEL_COMPILATION" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -18,11 +68,15 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="E:\DevelopSoftware\IDEA2020.2\IntelliJ IDEA 2020.2\plugins\maven\lib\maven3" />
-        <option name="userSettingsFile" value="D:\Resource\java-environment\apache-maven-3.5.2\conf\settings.xml" />
+        <option name="localRepository" value="E:\java-environment\maven-repository" />
+        <option name="mavenHome" value="E:\java-environment\apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="E:\java-environment\apache-maven-3.5.2\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
   </component>
@@ -30,15 +84,21 @@
     <option name="vmOptions" value="-DarchetypeCatalog=internal" />
   </component>
   <component name="ProjectId" id="1muoJFtb2CzHyYOAlbzbjnwqQJz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Project/v-cloud/v-cloud/pom.xml" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -46,7 +106,7 @@
       <recent name="com.onestar.bean" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.MainTest.TestMain (2)">
+  <component name="RunManager" selected="JUnit.MainTest.TestMain (3)">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -78,6 +138,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MainTest.TestMain (3)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="03-Scope" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MainTest" />
+      <option name="METHOD_NAME" value="TestMain" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MainTest.TestMain" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="spring-annotation" />
       <option name="PACKAGE_NAME" value="" />
@@ -90,8 +160,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.MainTest.TestMain (2)" />
+        <item itemvalue="JUnit.MainTest.TestMain (3)" />
         <item itemvalue="JUnit.MainTest.TestMain (1)" />
+        <item itemvalue="JUnit.MainTest.TestMain (2)" />
         <item itemvalue="JUnit.MainTest.TestMain" />
       </list>
     </recent_temporary>
@@ -117,37 +188,71 @@
       <workItem from="1611018709851" duration="980000" />
       <workItem from="1611027193287" duration="7775000" />
       <workItem from="1611106051357" duration="17509000" />
+      <workItem from="1611642714183" duration="3103000" />
+      <workItem from="1611647248820" duration="1597000" />
+      <workItem from="1611649403438" duration="3212000" />
+      <workItem from="1611653555516" duration="130000" />
+      <workItem from="1611653696384" duration="594000" />
+      <workItem from="1611655281192" duration="902000" />
+      <workItem from="1611658170515" duration="594000" />
+      <workItem from="1611711109746" duration="1219000" />
+      <workItem from="1611735855340" duration="91000" />
+      <workItem from="1611735959145" duration="4636000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="1038" y="346" key="#com.intellij.ide.util.MemberChooser" timestamp="1611124097812">
+    <state x="885" y="447" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1611650058394">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1038" y="346" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1611124097812" />
-    <state width="2507" height="421" key="GridCell.Tab.0.bottom" timestamp="1611126874688">
+    <state x="885" y="447" key="#com.intellij.codeInsight.template.impl.EditVariableDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1611650058393" />
+    <state x="1038" y="346" key="#com.intellij.ide.util.MemberChooser" timestamp="1611754139401">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2507" height="421" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1611126874688" />
-    <state width="2507" height="421" key="GridCell.Tab.0.center" timestamp="1611126874688">
+    <state x="1038" y="346" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1611754139401" />
+    <state x="569" y="355" key="FileChooserDialogImpl" timestamp="1611711129006">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2507" height="421" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1611126874688" />
-    <state width="2507" height="421" key="GridCell.Tab.0.left" timestamp="1611126874688">
+    <state x="569" y="355" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1611711129006" />
+    <state width="2517" height="401" key="GridCell.Tab.0.bottom" timestamp="1611757686389">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2507" height="421" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1611126874688" />
-    <state width="2507" height="421" key="GridCell.Tab.0.right" timestamp="1611126874688">
+    <state width="2517" height="401" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1611757686389" />
+    <state width="2517" height="401" key="GridCell.Tab.0.center" timestamp="1611757686389">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2507" height="421" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1611126874688" />
-    <state x="664" y="258" key="SettingsEditor" timestamp="1611108107281">
+    <state width="2517" height="401" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1611757686389" />
+    <state width="2517" height="401" key="GridCell.Tab.0.left" timestamp="1611757686389">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="664" y="258" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1611108107281" />
+    <state width="2517" height="401" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1611757686389" />
+    <state width="2517" height="401" key="GridCell.Tab.0.right" timestamp="1611757686389">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="401" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1611757686389" />
+    <state x="851" y="0" width="858" height="885" key="Registry" timestamp="1611644547224">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="851" y="0" width="858" height="885" key="Registry/0.0.2560.1400@0.0.2560.1400" timestamp="1611644547224" />
+    <state x="664" y="258" key="SettingsEditor" timestamp="1611650936629">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="664" y="258" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1611650936629" />
     <state x="542" y="250" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1610720999619">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -156,13 +261,13 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="996" y="491" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1611112743253" />
-    <state x="478" y="282" key="new project wizard" timestamp="1611048314322">
+    <state x="478" y="282" key="new project wizard" timestamp="1611650391183">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="478" y="282" key="new project wizard/0.0.2560.1400@0.0.2560.1400" timestamp="1611048314322" />
-    <state x="859" y="308" width="840" height="1034" key="search.everywhere.popup" timestamp="1610713409750">
+    <state x="478" y="282" key="new project wizard/0.0.2560.1400@0.0.2560.1400" timestamp="1611650391183" />
+    <state x="859" y="308" width="840" height="1034" key="search.everywhere.popup" timestamp="1611644514268">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="859" y="308" width="840" height="1034" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1610713409750" />
+    <state x="859" y="308" width="840" height="1034" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1611644514268" />
   </component>
 </project>

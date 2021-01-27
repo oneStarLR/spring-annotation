@@ -11,6 +11,7 @@
     <modules>
         <module>01-Configuration</module>
         <module>02-ComponentScan</module>
+        <module>03-Scope</module>
     </modules>
 
     <dependencies>

@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="01-Configuration" />
         <module name="02-ComponentScan" />
+        <module name="03-Scope" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
