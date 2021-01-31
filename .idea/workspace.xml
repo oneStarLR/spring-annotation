@@ -23,30 +23,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="41788e9c-adfd-4588-9d6a-9b0572eddfc1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03-Scope/03-Scope.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03-Scope/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03-Scope/src/main/java/com/onestar/bean/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03-Scope/src/main/java/com/onestar/config/AppConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03-Scope/src/test/java/MainTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/01-Configuration/target/classes/com/onestar/bean/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/01-Configuration/target/classes/com/onestar/bean/User.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/01-Configuration/target/classes/com/onestar/bean/User2.class" beforeDir="false" afterPath="$PROJECT_DIR$/01-Configuration/target/classes/com/onestar/bean/User2.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/01-Configuration/target/classes/com/onestar/config/AppConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/01-Configuration/target/classes/com/onestar/config/AppConfig.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/01-Configuration/target/test-classes/MainTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/01-Configuration/target/test-classes/MainTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-ComponentScan/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/02-ComponentScan/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-ComponentScan/target/classes/com/onestar/config/AppConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/02-ComponentScan/target/classes/com/onestar/config/AppConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-ComponentScan/target/classes/com/onestar/config/MyTypeFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/02-ComponentScan/target/classes/com/onestar/config/MyTypeFilter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-ComponentScan/target/classes/com/onestar/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/02-ComponentScan/target/classes/com/onestar/controller/UserController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-ComponentScan/target/classes/com/onestar/dao/UserDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/02-ComponentScan/target/classes/com/onestar/dao/UserDao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-ComponentScan/target/classes/com/onestar/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/02-ComponentScan/target/classes/com/onestar/service/UserService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-ComponentScan/target/test-classes/MainTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/02-ComponentScan/target/test-classes/MainTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-annotation.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-Scope/03-Scope.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-Scope/src/main/java/com/onestar/bean/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/03-Scope/src/main/java/com/onestar/bean/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-Scope/src/main/java/com/onestar/config/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/03-Scope/src/main/java/com/onestar/config/AppConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-Scope/src/test/java/MainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/03-Scope/src/test/java/MainTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-Scope/target/classes/com/onestar/bean/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/03-Scope/target/classes/com/onestar/bean/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-Scope/target/classes/com/onestar/config/AppConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/03-Scope/target/classes/com/onestar/config/AppConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-Scope/target/test-classes/MainTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/03-Scope/target/test-classes/MainTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +62,7 @@
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="localRepository" value="E:\java-environment\maven-repository" />
-        <option name="mavenHome" value="E:\java-environment\apache-maven-3.5.2" />
+        <option name="mavenHome" value="E:\DevelopSoftware\IDEA2020.2\IntelliJ IDEA 2020.2\plugins\maven\lib\maven3" />
         <option name="userSettingsFile" value="E:\java-environment\apache-maven-3.5.2\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
@@ -198,6 +185,8 @@
       <workItem from="1611711109746" duration="1219000" />
       <workItem from="1611735855340" duration="91000" />
       <workItem from="1611735959145" duration="4636000" />
+      <workItem from="1611929769832" duration="2394000" />
+      <workItem from="1612073548750" duration="9777000" />
     </task>
     <servers />
   </component>
@@ -229,22 +218,26 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="569" y="355" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1611711129006" />
-    <state width="2517" height="401" key="GridCell.Tab.0.bottom" timestamp="1611757686389">
+    <state width="2507" height="394" key="GridCell.Tab.0.bottom" timestamp="1612110985465">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="401" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1611757686389" />
-    <state width="2517" height="401" key="GridCell.Tab.0.center" timestamp="1611757686389">
+    <state width="1228" height="421" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1611936117814" />
+    <state width="2507" height="394" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1612110985465" />
+    <state width="2507" height="394" key="GridCell.Tab.0.center" timestamp="1612110985465">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="401" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1611757686389" />
-    <state width="2517" height="401" key="GridCell.Tab.0.left" timestamp="1611757686389">
+    <state width="1228" height="421" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1611936117814" />
+    <state width="2507" height="394" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1612110985465" />
+    <state width="2507" height="394" key="GridCell.Tab.0.left" timestamp="1612110985465">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="401" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1611757686389" />
-    <state width="2517" height="401" key="GridCell.Tab.0.right" timestamp="1611757686389">
+    <state width="1228" height="421" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1611936117814" />
+    <state width="2507" height="394" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1612110985465" />
+    <state width="2507" height="394" key="GridCell.Tab.0.right" timestamp="1612110985465">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="401" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1611757686389" />
+    <state width="1228" height="421" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1611936117814" />
+    <state width="2507" height="394" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1612110985465" />
     <state x="851" y="0" width="858" height="885" key="Registry" timestamp="1611644547224">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>

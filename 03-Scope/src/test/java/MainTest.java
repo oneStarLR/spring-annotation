@@ -15,16 +15,9 @@ public class MainTest {
     @Test
     public void TestMain(){
         AnnotationConfigApplicationContext applicationContext = new AnnotationConfigApplicationContext(AppConfig.class);
-        String[] beanNames = applicationContext.getBeanDefinitionNames();
-        for(String beanName : beanNames){
-            System.out.println("容器中对象名称："+beanName);
-        }
-
+        // 按照id获取bean
         Object user = applicationContext.getBean("user");
         Object user2 = applicationContext.getBean("user");
-        System.out.println(user);
-        System.out.println(user2);
         System.out.println(user == user2);
-
     }
 }

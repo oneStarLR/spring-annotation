@@ -1,0 +1,13 @@
+
+^
+java:S1854&"<Remove this useless assignment to local variable "resource".(éˆç•ùÿÿÿÿ8µÃøóñ.
+T
+java:S1481""7Remove this unused "annotationMetadata" local variable.(†«Á®8úãòóñ.
+T
+java:S1135"2Complete the task associated to this TODO comment.(Â“Œùÿÿÿÿ8äïóñ.
+^
+java:S1126)"AReplace this if-then-else statement by a single return statement.(å¬â§8ƒ„Øôñ.
+h
+java:S1854""FRemove this useless assignment to local variable "annotationMetadata".(ÄÍñãùÿÿÿÿ8úãòóñ.
+O
+java:S1481&"-Remove this unused "resource" local variable.(éˆç•ùÿÿÿÿ8µÃøóñ.
