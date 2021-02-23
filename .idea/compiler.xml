@@ -9,6 +9,7 @@
         <module name="01-Configuration" />
         <module name="02-ComponentScan" />
         <module name="03-Scope" />
+        <module name="04-Conditional" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

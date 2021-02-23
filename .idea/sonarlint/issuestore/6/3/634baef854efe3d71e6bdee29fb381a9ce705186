@@ -1,5 +1,4 @@
 
-d
-java:S2094"BRemove this empty class, write its code or make it an "interface".(òê¼—úÿÿÿÿ8”á§×ñ.
-O
-java:S1135"2Complete the task associated to this TODO comment.(Üğ£Å8”á§×ñ.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(ÿ×øıÿÿÿÿ8õÊ÷Çõ.
+M
+java:S1135"2Complete the task associated to this TODO comment.(Üğ£Å8”á§×ñ.
