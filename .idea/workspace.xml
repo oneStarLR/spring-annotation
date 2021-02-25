@@ -23,13 +23,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="41788e9c-adfd-4588-9d6a-9b0572eddfc1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/01-Configuration/target/classes/com/onestar/bean/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/01-Configuration/target/classes/com/onestar/bean/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-Configuration/target/classes/com/onestar/bean/User2.class" beforeDir="false" afterPath="$PROJECT_DIR$/01-Configuration/target/classes/com/onestar/bean/User2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-Configuration/target/classes/com/onestar/config/AppConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/01-Configuration/target/classes/com/onestar/config/AppConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-Configuration/target/test-classes/MainTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/01-Configuration/target/test-classes/MainTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03-Scope/target/classes/com/onestar/bean/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/03-Scope/target/classes/com/onestar/bean/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03-Scope/target/classes/com/onestar/config/AppConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/03-Scope/target/classes/com/onestar/config/AppConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03-Scope/target/test-classes/MainTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/03-Scope/target/test-classes/MainTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +55,7 @@
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="localRepository" value="E:\java-environment\maven-repository" />
-        <option name="mavenHome" value="E:\DevelopSoftware\IDEA2020.2\IntelliJ IDEA 2020.2\plugins\maven\lib\maven3" />
+        <option name="mavenHome" value="D:\DevelopSoftware\IDEA2020.2\IntelliJ IDEA 2020.2\plugins\maven\lib\maven3" />
         <option name="userSettingsFile" value="E:\java-environment\apache-maven-3.5.2\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
@@ -71,7 +64,9 @@
     <option name="vmOptions" value="-DarchetypeCatalog=internal" />
   </component>
   <component name="ProjectId" id="1muoJFtb2CzHyYOAlbzbjnwqQJz" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -94,7 +89,7 @@
       <recent name="com.onestar.bean" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.MainTest.TestMain">
+  <component name="RunManager" selected="JUnit.MainTest.TestMain (4)">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -128,6 +123,16 @@
     </configuration>
     <configuration name="MainTest.TestMain (3)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="03-Scope" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MainTest" />
+      <option name="METHOD_NAME" value="TestMain" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTest.TestMain (4)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="05-Import" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="MainTest" />
       <option name="METHOD_NAME" value="TestMain" />
@@ -176,14 +181,15 @@
       <item itemvalue="JUnit.MainTest.TestMain (1)" />
       <item itemvalue="JUnit.MainTest.TestMain (2)" />
       <item itemvalue="JUnit.MainTest.TestMain (3)" />
+      <item itemvalue="JUnit.MainTest.TestMain (4)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MainTest.TestMain (4)" />
         <item itemvalue="JUnit.MainTest.TestMain" />
         <item itemvalue="JUnit.MainTest.TestMain" />
         <item itemvalue="JUnit.MainTest.TestMain (1)" />
         <item itemvalue="JUnit.MainTest.TestMain (3)" />
-        <item itemvalue="JUnit.MainTest.TestMain (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -231,6 +237,7 @@
       <workItem from="1613889277131" duration="9658000" />
       <workItem from="1613999389969" duration="3801000" />
       <workItem from="1614078482816" duration="3708000" />
+      <workItem from="1614233468823" duration="13049000" />
     </task>
     <servers />
   </component>
@@ -266,81 +273,117 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="710" y="154" key="#com.intellij.ide.macro.MacrosDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1612930031891" />
-    <state x="779" y="253" key="#com.intellij.ide.util.MemberChooser" timestamp="1612925748294">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="1038" y="346" key="#com.intellij.ide.util.MemberChooser" timestamp="1614238746485">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="779" y="253" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1612925748294" />
-    <state x="1038" y="346" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1611754139401" />
-    <state x="427" y="264" key="FileChooserDialogImpl" timestamp="1612925422327">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="1038" y="346" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1614238746485" />
+    <state width="506" height="466" key="DebuggerActiveHint" timestamp="1614241011634">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="506" height="466" key="DebuggerActiveHint/0.0.2560.1400@0.0.2560.1400" timestamp="1614241011634" />
+    <state x="569" y="355" key="FileChooserDialogImpl" timestamp="1614246201056">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="427" y="264" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1612925422327" />
-    <state x="569" y="355" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1612192991667" />
-    <state width="2507" height="344" key="GridCell.Tab.0.bottom" timestamp="1613923994903">
+    <state x="569" y="355" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1614246201056" />
+    <state width="2517" height="530" key="GridCell.Tab.0.bottom" timestamp="1614246163844">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1228" height="421" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1611936117814" />
     <state width="1867" height="332" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1612982842728" />
-    <state width="2507" height="344" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1613923994903" />
-    <state width="2507" height="344" key="GridCell.Tab.0.center" timestamp="1613923994903">
+    <state width="2517" height="530" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1614246163844" />
+    <state width="2517" height="530" key="GridCell.Tab.0.center" timestamp="1614246163844">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1228" height="421" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1611936117814" />
     <state width="1867" height="332" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1612982842728" />
-    <state width="2507" height="344" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1613923994903" />
-    <state width="2507" height="344" key="GridCell.Tab.0.left" timestamp="1613923994903">
+    <state width="2517" height="530" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1614246163844" />
+    <state width="2517" height="530" key="GridCell.Tab.0.left" timestamp="1614246163844">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1228" height="421" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1611936117814" />
     <state width="1867" height="332" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1612982842728" />
-    <state width="2507" height="344" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1613923994903" />
-    <state width="2507" height="344" key="GridCell.Tab.0.right" timestamp="1613923994903">
+    <state width="2517" height="530" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1614246163844" />
+    <state width="2517" height="530" key="GridCell.Tab.0.right" timestamp="1614246163844">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1228" height="421" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1611936117814" />
     <state width="1867" height="332" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1612982842728" />
-    <state width="2507" height="344" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1613923994903" />
-    <state width="1867" height="332" key="GridCell.Tab.1.bottom" timestamp="1612982842728">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="2517" height="530" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1614246163844" />
+    <state width="2517" height="588" key="GridCell.Tab.1.bottom" timestamp="1614241097780">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1867" height="332" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1612982842728" />
-    <state width="1867" height="332" key="GridCell.Tab.1.center" timestamp="1612982842728">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="2517" height="588" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1614241097780" />
+    <state width="2517" height="588" key="GridCell.Tab.1.center" timestamp="1614241097780">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1867" height="332" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1612982842728" />
-    <state width="1867" height="332" key="GridCell.Tab.1.left" timestamp="1612982842728">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="2517" height="588" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1614241097780" />
+    <state width="2517" height="588" key="GridCell.Tab.1.left" timestamp="1614241097780">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1867" height="332" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1612982842728" />
-    <state width="1867" height="332" key="GridCell.Tab.1.right" timestamp="1612982842728">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="2517" height="588" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1614241097780" />
+    <state width="2517" height="588" key="GridCell.Tab.1.right" timestamp="1614241097780">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1867" height="332" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1612982842728" />
+    <state width="2517" height="588" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1614241097780" />
     <state x="851" y="0" width="858" height="885" key="Registry" timestamp="1611644547224">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="851" y="0" width="858" height="885" key="Registry/0.0.2560.1400@0.0.2560.1400" timestamp="1611644547224" />
-    <state x="664" y="258" key="SettingsEditor" timestamp="1613889813334">
+    <state x="664" y="258" key="SettingsEditor" timestamp="1614246204677">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="498" y="157" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1612925425243" />
-    <state x="664" y="258" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1613889813334" />
+    <state x="664" y="258" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1614246204677" />
     <state x="542" y="250" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1610720999619">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="542" y="250" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1610720999619" />
-    <state x="996" y="491" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1611112743253">
+    <state x="1083" y="613" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1614130107191">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="996" y="491" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1611112743253" />
-    <state x="316" y="205" key="new project wizard" timestamp="1612752194846">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="1083" y="613" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1400@0.0.2560.1400" timestamp="1614130107191" />
+    <state x="996" y="491" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1614241919764">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="996" y="491" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1614241919764" />
+    <state x="478" y="282" key="new project wizard" timestamp="1614233582830">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="316" y="205" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1612752194846" />
-    <state x="478" y="282" key="new project wizard/0.0.2560.1400@0.0.2560.1400" timestamp="1612193028692" />
-    <state x="859" y="308" width="840" height="1034" key="search.everywhere.popup" timestamp="1614080621327">
+    <state x="478" y="282" key="new project wizard/0.0.2560.1400@0.0.2560.1400" timestamp="1614233582830" />
+    <state x="859" y="308" width="840" height="1034" key="search.everywhere.popup" timestamp="1614134006278">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="859" y="308" width="840" height="1034" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1614080621327" />
+    <state x="859" y="308" width="840" height="1034" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1614134006278" />
+  </component>
+  <component name="XDebuggerManager">
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="org.springframework.core.type.StandardAnnotationMetadata" memberName="annotationTypes" />
+        <PinnedItemInfo parentTag="org.springframework.core.type.StandardAnnotationMetadata" memberName="nestedAnnotationsAsMap" />
+        <PinnedItemInfo parentTag="org.springframework.core.type.StandardAnnotationMetadata" memberName="mergedAnnotations" />
+        <PinnedItemInfo parentTag="java.lang.Class" memberName="name" />
+      </pinned-members>
+    </pin-to-top-manager>
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="((StandardAnnotationMetadata)annotationMetadata).annotationTypes" custom="org.springframework.core.type.StandardAnnotationMetadata" />
+        <watch expression="((StandardAnnotationMetadata)annotationMetadata).annotationTypes" language="JAVA" custom="org.springframework.core.type.StandardAnnotationMetadata" />
+        <watch expression="((StandardAnnotationMetadata)annotationMetadata).annotationTypes" language="JAVA" custom="org.springframework.core.type.StandardAnnotationMetadata" />
+        <watch expression="((StandardAnnotationMetadata)annotationMetadata).annotationTypes" language="JAVA" custom="org.springframework.core.type.StandardAnnotationMetadata" />
+        <watch expression="((StandardAnnotationMetadata)annotationMetadata).annotationTypes" language="JAVA" custom="org.springframework.core.type.StandardAnnotationMetadata" />
+        <watch expression="((StandardAnnotationMetadata)annotationMetadata).annotationTypes" language="JAVA" custom="org.springframework.core.type.StandardAnnotationMetadata" />
+        <watch expression="((StandardAnnotationMetadata)annotationMetadata).annotationTypes" language="JAVA" custom="org.springframework.core.type.StandardAnnotationMetadata" />
+        <watch expression="((StandardAnnotationMetadata)annotationMetadata).annotationTypes" language="JAVA" custom="org.springframework.core.type.StandardAnnotationMetadata" />
+        <watch expression="((StandardAnnotationMetadata)annotationMetadata).annotationTypes" language="JAVA" custom="org.springframework.core.type.StandardAnnotationMetadata" />
+        <watch expression="((StandardAnnotationMetadata)annotationMetadata).annotationTypes" language="JAVA" custom="org.springframework.core.type.StandardAnnotationMetadata" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
