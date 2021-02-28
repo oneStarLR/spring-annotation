@@ -55,7 +55,7 @@
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="localRepository" value="E:\java-environment\maven-repository" />
-        <option name="mavenHome" value="D:\DevelopSoftware\IDEA2020.2\IntelliJ IDEA 2020.2\plugins\maven\lib\maven3" />
+        <option name="mavenHome" value="E:\DevelopSoftware\IDEA2020.2\IntelliJ IDEA 2020.2\plugins\maven\lib\maven3" />
         <option name="userSettingsFile" value="E:\java-environment\apache-maven-3.5.2\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
@@ -89,7 +89,7 @@
       <recent name="com.onestar.bean" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.MainTest.TestMain (4)">
+  <component name="RunManager" selected="JUnit.MainTest.TestMain (5)">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -111,16 +111,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainTest.TestMain (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="02-ComponentScan" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="MainTest" />
-      <option name="METHOD_NAME" value="TestMain" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="MainTest.TestMain (3)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="03-Scope" />
       <option name="PACKAGE_NAME" value="" />
@@ -133,6 +123,16 @@
     </configuration>
     <configuration name="MainTest.TestMain (4)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="05-Import" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MainTest" />
+      <option name="METHOD_NAME" value="TestMain" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTest.TestMain (5)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="06-FactoryBean" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="MainTest" />
       <option name="METHOD_NAME" value="TestMain" />
@@ -179,17 +179,17 @@
     <list>
       <item itemvalue="JUnit.MainTest.TestMain" />
       <item itemvalue="JUnit.MainTest.TestMain (1)" />
-      <item itemvalue="JUnit.MainTest.TestMain (2)" />
       <item itemvalue="JUnit.MainTest.TestMain (3)" />
       <item itemvalue="JUnit.MainTest.TestMain (4)" />
+      <item itemvalue="JUnit.MainTest.TestMain (5)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MainTest.TestMain (5)" />
         <item itemvalue="JUnit.MainTest.TestMain (4)" />
         <item itemvalue="JUnit.MainTest.TestMain" />
         <item itemvalue="JUnit.MainTest.TestMain" />
         <item itemvalue="JUnit.MainTest.TestMain (1)" />
-        <item itemvalue="JUnit.MainTest.TestMain (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -273,11 +273,11 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="710" y="154" key="#com.intellij.ide.macro.MacrosDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1612930031891" />
-    <state x="1038" y="346" key="#com.intellij.ide.util.MemberChooser" timestamp="1614238746485">
+    <state x="1038" y="346" key="#com.intellij.ide.util.MemberChooser" timestamp="1614528636372">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="779" y="253" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1612925748294" />
-    <state x="1038" y="346" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1614238746485" />
+    <state x="1038" y="346" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1614528636372" />
     <state width="506" height="466" key="DebuggerActiveHint" timestamp="1614241011634">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -287,30 +287,30 @@
     </state>
     <state x="427" y="264" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1612925422327" />
     <state x="569" y="355" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1614246201056" />
-    <state width="2517" height="530" key="GridCell.Tab.0.bottom" timestamp="1614246163844">
+    <state width="2507" height="344" key="GridCell.Tab.0.bottom" timestamp="1614529975899">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1228" height="421" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1611936117814" />
     <state width="1867" height="332" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1612982842728" />
-    <state width="2517" height="530" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1614246163844" />
-    <state width="2517" height="530" key="GridCell.Tab.0.center" timestamp="1614246163844">
+    <state width="2507" height="344" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1614529975899" />
+    <state width="2507" height="344" key="GridCell.Tab.0.center" timestamp="1614529975899">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1228" height="421" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1611936117814" />
     <state width="1867" height="332" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1612982842728" />
-    <state width="2517" height="530" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1614246163844" />
-    <state width="2517" height="530" key="GridCell.Tab.0.left" timestamp="1614246163844">
+    <state width="2507" height="344" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1614529975899" />
+    <state width="2507" height="344" key="GridCell.Tab.0.left" timestamp="1614529975898">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1228" height="421" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1611936117814" />
     <state width="1867" height="332" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1612982842728" />
-    <state width="2517" height="530" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1614246163844" />
-    <state width="2517" height="530" key="GridCell.Tab.0.right" timestamp="1614246163844">
+    <state width="2507" height="344" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1614529975898" />
+    <state width="2507" height="344" key="GridCell.Tab.0.right" timestamp="1614529975899">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1228" height="421" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1611936117814" />
     <state width="1867" height="332" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1612982842728" />
-    <state width="2517" height="530" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1614246163844" />
+    <state width="2507" height="344" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1614529975899" />
     <state width="2517" height="588" key="GridCell.Tab.1.bottom" timestamp="1614241097780">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -352,11 +352,11 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="996" y="491" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1614241919764" />
-    <state x="478" y="282" key="new project wizard" timestamp="1614233582830">
+    <state x="478" y="282" key="new project wizard" timestamp="1614527443046">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="316" y="205" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1612752194846" />
-    <state x="478" y="282" key="new project wizard/0.0.2560.1400@0.0.2560.1400" timestamp="1614233582830" />
+    <state x="478" y="282" key="new project wizard/0.0.2560.1400@0.0.2560.1400" timestamp="1614527443046" />
     <state x="859" y="308" width="840" height="1034" key="search.everywhere.popup" timestamp="1614134006278">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>

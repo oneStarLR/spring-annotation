@@ -11,6 +11,7 @@
         <module name="03-Scope" />
         <module name="04-Conditional" />
         <module name="05-Import" />
+        <module name="06-FactoryBean" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
