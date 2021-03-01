@@ -18,6 +18,7 @@ public class ColorFactoryBean implements FactoryBean {
         return new Color();
     }
 
+    // Bean的类型
     public Class<?> getObjectType() {
         return Color.class;
     }
