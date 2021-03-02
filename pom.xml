@@ -15,6 +15,7 @@
         <module>04-Conditional</module>
         <module>05-Import</module>
         <module>06-FactoryBean</module>
+        <module>07-BeanLifeCycle</module>
     </modules>
 
     <dependencies>
