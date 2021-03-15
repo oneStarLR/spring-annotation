@@ -1,6 +1,8 @@
 package controller;
 
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
+import service.UserService;
 
 /**
  * @ClassName: DogController
@@ -12,5 +14,9 @@ import org.springframework.stereotype.Controller;
  * @Version 1.0
  */
 @Controller
-public class DogController {
+public class UserController {
+
+    @Autowired
+    private UserService dogService;
+
 }

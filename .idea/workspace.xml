@@ -23,9 +23,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="41788e9c-adfd-4588-9d6a-9b0572eddfc1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/07-BeanLifeCycle/target/classes/bean/MyBeanPostProcessor.class" beforeDir="false" afterPath="$PROJECT_DIR$/07-BeanLifeCycle/target/classes/bean/MyBeanPostProcessor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07-BeanLifeCycle/target/classes/config/AppConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/07-BeanLifeCycle/target/classes/config/AppConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08-Autowired/src/main/java/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Autowired/src/main/java/config/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/08-Autowired/src/main/java/config/AppConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Autowired/src/main/java/controller/DogController.java" beforeDir="false" afterPath="$PROJECT_DIR$/08-Autowired/src/main/java/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Autowired/src/main/java/dao/DogDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/08-Autowired/src/main/java/dao/UserDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Autowired/src/main/java/service/DogService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Autowired/target/classes/config/AppConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/08-Autowired/target/classes/config/AppConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Autowired/target/classes/controller/DogController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Autowired/target/classes/dao/DogDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Autowired/target/classes/service/DogService.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,6 +89,7 @@
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="RecentsManager">
@@ -91,20 +98,18 @@
       <recent name="com.onestar.bean" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.MainTest.TestMain (2)">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
+  <component name="RunManager" selected="JUnit.MainTest.TestMain (1)">
+    <configuration name="MainTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="08-Autowired" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MainTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainTest.TestMain (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="07-BeanLifeCycle" />
+    <configuration name="MainTest.TestMain (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="08-Autowired" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="MainTest" />
       <option name="METHOD_NAME" value="TestMain" />
@@ -113,8 +118,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainTest.TestMain (3)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="03-Scope" />
+    <configuration name="MainTest.TestMain (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="07-BeanLifeCycle" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="MainTest" />
       <option name="METHOD_NAME" value="TestMain" />
@@ -135,16 +140,6 @@
     </configuration>
     <configuration name="MainTest.TestMain (5)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="06-FactoryBean" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="MainTest" />
-      <option name="METHOD_NAME" value="TestMain" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MainTest.TestMain" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="spring-annotation" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="MainTest" />
       <option name="METHOD_NAME" value="TestMain" />
@@ -180,18 +175,19 @@
     </configuration>
     <list>
       <item itemvalue="JUnit.MainTest.TestMain" />
-      <item itemvalue="JUnit.MainTest.TestMain (3)" />
       <item itemvalue="JUnit.MainTest.TestMain (4)" />
       <item itemvalue="JUnit.MainTest.TestMain (5)" />
       <item itemvalue="JUnit.MainTest.TestMain (2)" />
+      <item itemvalue="JUnit.MainTest.TestMain (1)" />
+      <item itemvalue="JUnit.MainTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MainTest.TestMain (1)" />
+        <item itemvalue="JUnit.MainTest" />
         <item itemvalue="JUnit.MainTest.TestMain (2)" />
         <item itemvalue="JUnit.MainTest.TestMain (5)" />
         <item itemvalue="JUnit.MainTest.TestMain (4)" />
-        <item itemvalue="JUnit.MainTest.TestMain" />
-        <item itemvalue="JUnit.MainTest.TestMain" />
       </list>
     </recent_temporary>
   </component>
@@ -248,7 +244,11 @@
       <workItem from="1615164008312" duration="97000" />
       <workItem from="1615164124140" duration="5134000" />
       <workItem from="1615250218461" duration="6363000" />
-      <workItem from="1615359463421" duration="4748000" />
+      <workItem from="1615359463421" duration="5004000" />
+      <workItem from="1615422890201" duration="17799000" />
+      <workItem from="1615510142367" duration="602000" />
+      <workItem from="1615519038715" duration="8804000" />
+      <workItem from="1615596037174" duration="16227000" />
     </task>
     <servers />
   </component>
@@ -281,11 +281,19 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="710" y="154" key="#com.intellij.ide.macro.MacrosDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1612930031891" />
-    <state x="1038" y="346" key="#com.intellij.ide.util.MemberChooser" timestamp="1614929423942">
+    <state x="1038" y="346" key="#com.intellij.ide.util.MemberChooser" timestamp="1615441764425">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="779" y="253" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1612925748294" />
-    <state x="1038" y="346" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1614929423942" />
+    <state x="1038" y="346" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1615441764425" />
+    <state x="639" y="67" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1615601119111">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="639" y="67" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1615601119111" />
+    <state x="1023" y="531" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1615601107475">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1023" y="531" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.2560.1400@0.0.2560.1400" timestamp="1615601107475" />
     <state width="506" height="466" key="DebuggerActiveHint" timestamp="1614241011634">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -295,30 +303,30 @@
     </state>
     <state x="427" y="264" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1612925422327" />
     <state x="569" y="355" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1614246201056" />
-    <state width="2517" height="444" key="GridCell.Tab.0.bottom" timestamp="1614938663177">
+    <state width="2517" height="379" key="GridCell.Tab.0.bottom" timestamp="1615642318401">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1228" height="421" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1611936117814" />
     <state width="1867" height="332" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1612982842728" />
-    <state width="2517" height="444" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1614938663177" />
-    <state width="2517" height="444" key="GridCell.Tab.0.center" timestamp="1614938663177">
+    <state width="2517" height="379" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1615642318401" />
+    <state width="2517" height="379" key="GridCell.Tab.0.center" timestamp="1615642318401">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1228" height="421" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1611936117814" />
     <state width="1867" height="332" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1612982842728" />
-    <state width="2517" height="444" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1614938663177" />
-    <state width="2517" height="444" key="GridCell.Tab.0.left" timestamp="1614938663177">
+    <state width="2517" height="379" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1615642318401" />
+    <state width="2517" height="379" key="GridCell.Tab.0.left" timestamp="1615642318401">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1228" height="421" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1611936117814" />
     <state width="1867" height="332" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1612982842728" />
-    <state width="2517" height="444" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1614938663177" />
-    <state width="2517" height="444" key="GridCell.Tab.0.right" timestamp="1614938663177">
+    <state width="2517" height="379" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1615642318401" />
+    <state width="2517" height="379" key="GridCell.Tab.0.right" timestamp="1615642318401">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1228" height="421" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1611936117814" />
     <state width="1867" height="332" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1612982842728" />
-    <state width="2517" height="444" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1614938663177" />
+    <state width="2517" height="379" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1615642318401" />
     <state width="2517" height="428" key="GridCell.Tab.1.bottom" timestamp="1614938663174">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -365,10 +373,10 @@
     </state>
     <state x="316" y="205" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1612752194846" />
     <state x="478" y="282" key="new project wizard/0.0.2560.1400@0.0.2560.1400" timestamp="1615365596712" />
-    <state x="859" y="308" width="840" height="1034" key="search.everywhere.popup" timestamp="1615303285276">
+    <state x="859" y="308" width="840" height="1034" key="search.everywhere.popup" timestamp="1615627637230">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="859" y="308" width="840" height="1034" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1615303285276" />
+    <state x="859" y="308" width="840" height="1034" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1615627637230" />
   </component>
   <component name="XDebuggerManager">
     <pin-to-top-manager>
