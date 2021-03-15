@@ -17,6 +17,7 @@
         <module>06-FactoryBean</module>
         <module>07-BeanLifeCycle</module>
         <module>08-Autowired</module>
+        <module>10-Profile</module>
     </modules>
 
     <dependencies>

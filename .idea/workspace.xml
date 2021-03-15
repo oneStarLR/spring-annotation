@@ -23,15 +23,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="41788e9c-adfd-4588-9d6a-9b0572eddfc1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/08-Autowired/src/main/java/service/UserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08-Autowired/src/main/java/config/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/08-Autowired/src/main/java/config/AppConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08-Autowired/src/main/java/controller/DogController.java" beforeDir="false" afterPath="$PROJECT_DIR$/08-Autowired/src/main/java/controller/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08-Autowired/src/main/java/dao/DogDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/08-Autowired/src/main/java/dao/UserDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08-Autowired/src/main/java/service/DogService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/08-Autowired/target/classes/config/AppConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/08-Autowired/target/classes/config/AppConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08-Autowired/target/classes/controller/DogController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/08-Autowired/target/classes/dao/DogDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/08-Autowired/target/classes/service/DogService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +90,7 @@
       <recent name="com.onestar.bean" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.MainTest.TestMain (1)">
+  <component name="RunManager" selected="JUnit.MainTest.TestMain (3)">
     <configuration name="MainTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="08-Autowired" />
       <option name="PACKAGE_NAME" value="" />
@@ -128,8 +120,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainTest.TestMain (4)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="05-Import" />
+    <configuration name="MainTest.TestMain (3)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="10-Profile" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="MainTest" />
       <option name="METHOD_NAME" value="TestMain" />
@@ -155,19 +147,6 @@
       <option name="MAIN_CLASS_NAME" value="MainTest" />
       <option name="METHOD_NAME" value="TestMain" />
       <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea -Dos.name=linux" />
-      <option name="PARAMETERS" value="" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MainTest.TestMain" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="04-Conditional" />
-      <useClassPathOnly />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="MainTest" />
-      <option name="METHOD_NAME" value="TestMain" />
-      <option name="TEST_OBJECT" value="method" />
       <option name="PARAMETERS" value="" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -175,19 +154,19 @@
     </configuration>
     <list>
       <item itemvalue="JUnit.MainTest.TestMain" />
-      <item itemvalue="JUnit.MainTest.TestMain (4)" />
       <item itemvalue="JUnit.MainTest.TestMain (5)" />
       <item itemvalue="JUnit.MainTest.TestMain (2)" />
       <item itemvalue="JUnit.MainTest.TestMain (1)" />
       <item itemvalue="JUnit.MainTest" />
+      <item itemvalue="JUnit.MainTest.TestMain (3)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MainTest.TestMain (3)" />
         <item itemvalue="JUnit.MainTest.TestMain (1)" />
         <item itemvalue="JUnit.MainTest" />
         <item itemvalue="JUnit.MainTest.TestMain (2)" />
         <item itemvalue="JUnit.MainTest.TestMain (5)" />
-        <item itemvalue="JUnit.MainTest.TestMain (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -249,6 +228,7 @@
       <workItem from="1615510142367" duration="602000" />
       <workItem from="1615519038715" duration="8804000" />
       <workItem from="1615596037174" duration="16227000" />
+      <workItem from="1615797425939" duration="3328000" />
     </task>
     <servers />
   </component>
@@ -303,30 +283,30 @@
     </state>
     <state x="427" y="264" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1612925422327" />
     <state x="569" y="355" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1614246201056" />
-    <state width="2517" height="379" key="GridCell.Tab.0.bottom" timestamp="1615642318401">
+    <state width="2517" height="379" key="GridCell.Tab.0.bottom" timestamp="1615800115269">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1228" height="421" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1611936117814" />
     <state width="1867" height="332" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1612982842728" />
-    <state width="2517" height="379" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1615642318401" />
-    <state width="2517" height="379" key="GridCell.Tab.0.center" timestamp="1615642318401">
+    <state width="2517" height="379" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1615800115269" />
+    <state width="2517" height="379" key="GridCell.Tab.0.center" timestamp="1615800115265">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1228" height="421" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1611936117814" />
     <state width="1867" height="332" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1612982842728" />
-    <state width="2517" height="379" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1615642318401" />
-    <state width="2517" height="379" key="GridCell.Tab.0.left" timestamp="1615642318401">
+    <state width="2517" height="379" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1615800115265" />
+    <state width="2517" height="379" key="GridCell.Tab.0.left" timestamp="1615800115261">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1228" height="421" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1611936117814" />
     <state width="1867" height="332" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1612982842728" />
-    <state width="2517" height="379" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1615642318401" />
-    <state width="2517" height="379" key="GridCell.Tab.0.right" timestamp="1615642318401">
+    <state width="2517" height="379" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1615800115261" />
+    <state width="2517" height="379" key="GridCell.Tab.0.right" timestamp="1615800115268">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1228" height="421" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1611936117814" />
     <state width="1867" height="332" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1612982842728" />
-    <state width="2517" height="379" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1615642318401" />
+    <state width="2517" height="379" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1615800115268" />
     <state width="2517" height="428" key="GridCell.Tab.1.bottom" timestamp="1614938663174">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -368,11 +348,11 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="996" y="491" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1614241919764" />
-    <state x="478" y="282" key="new project wizard" timestamp="1615365596712">
+    <state x="478" y="282" key="new project wizard" timestamp="1615797653829">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="316" y="205" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1612752194846" />
-    <state x="478" y="282" key="new project wizard/0.0.2560.1400@0.0.2560.1400" timestamp="1615365596712" />
+    <state x="478" y="282" key="new project wizard/0.0.2560.1400@0.0.2560.1400" timestamp="1615797653829" />
     <state x="859" y="308" width="840" height="1034" key="search.everywhere.popup" timestamp="1615627637230">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>

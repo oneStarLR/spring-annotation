@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="01-Configuration" />
         <module name="04-Conditional" />
+        <module name="10-Profile" />
         <module name="06-FactoryBean" />
         <module name="08-Autowired" />
         <module name="02-ComponentScan" />
