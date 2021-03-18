@@ -9,10 +9,12 @@
         <module name="01-Configuration" />
         <module name="04-Conditional" />
         <module name="10-Profile" />
+        <module name="11-BeanFactoryPostProcessor" />
         <module name="06-FactoryBean" />
         <module name="08-Autowired" />
         <module name="02-ComponentScan" />
         <module name="03-Scope" />
+        <module name="09-Aware" />
         <module name="05-Import" />
         <module name="07-BeanLifeCycle" />
       </profile>

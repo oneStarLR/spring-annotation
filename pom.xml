@@ -18,6 +18,8 @@
         <module>07-BeanLifeCycle</module>
         <module>08-Autowired</module>
         <module>10-Profile</module>
+        <module>11-BeanFactoryPostProcessor</module>
+        <module>09-Aware</module>
     </modules>
 
     <dependencies>
