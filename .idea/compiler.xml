@@ -15,6 +15,7 @@
         <module name="02-ComponentScan" />
         <module name="03-Scope" />
         <module name="09-Aware" />
+        <module name="12-BeanDefinitionRegistryPostProcessor" />
         <module name="05-Import" />
         <module name="07-BeanLifeCycle" />
       </profile>

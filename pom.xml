@@ -20,6 +20,7 @@
         <module>10-Profile</module>
         <module>11-BeanFactoryPostProcessor</module>
         <module>09-Aware</module>
+        <module>12-BeanDefinitionRegistryPostProcessor</module>
     </modules>
 
     <dependencies>
