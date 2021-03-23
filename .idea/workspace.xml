@@ -23,6 +23,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="41788e9c-adfd-4588-9d6a-9b0572eddfc1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/12-BeanDefinitionRegistryPostProcessor/target/classes/postprocessor/MyBeanDefinitionRegistryPostProcessor.class" beforeDir="false" afterPath="$PROJECT_DIR$/12-BeanDefinitionRegistryPostProcessor/target/classes/postprocessor/MyBeanDefinitionRegistryPostProcessor.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -90,16 +91,24 @@
       <recent name="com.onestar.bean" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.MainTest.TestMain (5)">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.MainTest.TestMain (1)">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTest.TestMain (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="13-ApplicationListener" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MainTest" />
+      <option name="METHOD_NAME" value="TestMain" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -145,18 +154,6 @@
       </method>
     </configuration>
     <configuration name="MainTest.TestMain" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="04-Conditional" />
-      <useClassPathOnly />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="MainTest" />
-      <option name="METHOD_NAME" value="TestMain" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="PARAMETERS" value="" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MainTest.TestMain" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="10-Profile" />
       <useClassPathOnly />
       <option name="PACKAGE_NAME" value="" />
@@ -170,19 +167,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.MainTest.TestMain" />
       <item itemvalue="JUnit.MainTest.TestMain (3)" />
       <item itemvalue="JUnit.MainTest.TestMain (4)" />
       <item itemvalue="JUnit.MainTest.TestMain (2)" />
       <item itemvalue="JUnit.MainTest.TestMain (5)" />
+      <item itemvalue="JUnit.MainTest.TestMain (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MainTest.TestMain (1)" />
         <item itemvalue="JUnit.MainTest.TestMain (5)" />
         <item itemvalue="JUnit.MainTest.TestMain (2)" />
         <item itemvalue="JUnit.MainTest.TestMain (4)" />
         <item itemvalue="JUnit.MainTest.TestMain (3)" />
-        <item itemvalue="JUnit.MainTest.TestMain" />
       </list>
     </recent_temporary>
   </component>
@@ -249,7 +246,9 @@
       <workItem from="1615859675268" duration="10756000" />
       <workItem from="1615946231254" duration="5116000" />
       <workItem from="1616057912836" duration="3406000" />
-      <workItem from="1616114595987" duration="18417000" />
+      <workItem from="1616114595987" duration="19342000" />
+      <workItem from="1616379383227" duration="660000" />
+      <workItem from="1616460952468" duration="636000" />
     </task>
     <servers />
   </component>
@@ -282,11 +281,11 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="710" y="154" key="#com.intellij.ide.macro.MacrosDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1612930031891" />
-    <state x="1038" y="346" key="#com.intellij.ide.util.MemberChooser" timestamp="1616122509433">
+    <state x="1038" y="346" key="#com.intellij.ide.util.MemberChooser" timestamp="1616461137704">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="779" y="253" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1612925748294" />
-    <state x="1038" y="346" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1616122509433" />
+    <state x="1038" y="346" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1616461137704" />
     <state x="639" y="67" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1615601119111">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -304,50 +303,50 @@
     </state>
     <state x="427" y="264" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1612925422327" />
     <state x="569" y="355" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1614246201056" />
-    <state width="2517" height="403" key="GridCell.Tab.0.bottom" timestamp="1616138996588">
+    <state width="2517" height="403" key="GridCell.Tab.0.bottom" timestamp="1616461672877">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1228" height="421" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1611936117814" />
     <state width="1867" height="332" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1612982842728" />
-    <state width="2517" height="403" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1616138996588" />
-    <state width="2517" height="403" key="GridCell.Tab.0.center" timestamp="1616138996588">
+    <state width="2517" height="403" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1616461672877" />
+    <state width="2517" height="403" key="GridCell.Tab.0.center" timestamp="1616461672877">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1228" height="421" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1611936117814" />
     <state width="1867" height="332" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1612982842728" />
-    <state width="2517" height="403" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1616138996588" />
-    <state width="2517" height="403" key="GridCell.Tab.0.left" timestamp="1616138996588">
+    <state width="2517" height="403" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1616461672877" />
+    <state width="2517" height="403" key="GridCell.Tab.0.left" timestamp="1616461672877">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1228" height="421" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1611936117814" />
     <state width="1867" height="332" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1612982842728" />
-    <state width="2517" height="403" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1616138996588" />
-    <state width="2517" height="403" key="GridCell.Tab.0.right" timestamp="1616138996588">
+    <state width="2517" height="403" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1616461672877" />
+    <state width="2517" height="403" key="GridCell.Tab.0.right" timestamp="1616461672877">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1228" height="421" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1611936117814" />
     <state width="1867" height="332" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1612982842728" />
-    <state width="2517" height="403" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1616138996588" />
-    <state width="2517" height="403" key="GridCell.Tab.1.bottom" timestamp="1616138997014">
+    <state width="2517" height="403" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1616461672877" />
+    <state width="2517" height="403" key="GridCell.Tab.1.bottom" timestamp="1616146847198">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1867" height="332" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1612982842728" />
-    <state width="2517" height="403" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1616138997014" />
-    <state width="2517" height="403" key="GridCell.Tab.1.center" timestamp="1616138997013">
+    <state width="2517" height="403" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1616146847198" />
+    <state width="2517" height="403" key="GridCell.Tab.1.center" timestamp="1616146847197">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1867" height="332" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1612982842728" />
-    <state width="2517" height="403" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1616138997013" />
-    <state width="2517" height="403" key="GridCell.Tab.1.left" timestamp="1616138997013">
+    <state width="2517" height="403" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1616146847197" />
+    <state width="2517" height="403" key="GridCell.Tab.1.left" timestamp="1616146847197">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1867" height="332" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1612982842728" />
-    <state width="2517" height="403" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1616138997013" />
-    <state width="2517" height="403" key="GridCell.Tab.1.right" timestamp="1616138997013">
+    <state width="2517" height="403" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1616146847197" />
+    <state width="2517" height="403" key="GridCell.Tab.1.right" timestamp="1616146847197">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1867" height="332" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1612982842728" />
-    <state width="2517" height="403" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1616138997013" />
+    <state width="2517" height="403" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1616146847197" />
     <state x="851" y="0" width="858" height="885" key="Registry" timestamp="1611644547224">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -369,37 +368,17 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="996" y="491" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1614241919764" />
-    <state x="478" y="282" key="new project wizard" timestamp="1616122412415">
+    <state x="478" y="282" key="new project wizard" timestamp="1616461036343">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="316" y="205" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1612752194846" />
-    <state x="478" y="282" key="new project wizard/0.0.2560.1400@0.0.2560.1400" timestamp="1616122412415" />
+    <state x="478" y="282" key="new project wizard/0.0.2560.1400@0.0.2560.1400" timestamp="1616461036343" />
     <state x="859" y="308" width="840" height="1034" key="search.everywhere.popup" timestamp="1616059337960">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="859" y="308" width="840" height="1034" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1616059337960" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/12-BeanDefinitionRegistryPostProcessor/src/main/java/postprocessor/MyBeanDefinitionRegistryPostProcessor.java</url>
-          <line>30</line>
-          <properties class="postprocessor.MyBeanDefinitionRegistryPostProcessor" method="postProcessBeanFactory">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/12-BeanDefinitionRegistryPostProcessor/src/main/java/postprocessor/MyBeanDefinitionRegistryPostProcessor.java</url>
-          <line>22</line>
-          <properties class="postprocessor.MyBeanDefinitionRegistryPostProcessor" method="postProcessBeanDefinitionRegistry">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
     <pin-to-top-manager>
       <pinned-members>
         <PinnedItemInfo parentTag="org.springframework.core.type.StandardAnnotationMetadata" memberName="annotationTypes" />

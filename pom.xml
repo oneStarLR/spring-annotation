@@ -21,6 +21,7 @@
         <module>11-BeanFactoryPostProcessor</module>
         <module>09-Aware</module>
         <module>12-BeanDefinitionRegistryPostProcessor</module>
+        <module>13-ApplicationListener</module>
     </modules>
 
     <dependencies>
