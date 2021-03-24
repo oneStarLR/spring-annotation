@@ -16,6 +16,7 @@
         <module name="03-Scope" />
         <module name="09-Aware" />
         <module name="12-BeanDefinitionRegistryPostProcessor" />
+        <module name="14-EventListener" />
         <module name="07-BeanLifeCycle" />
         <module name="13-ApplicationListener" />
         <module name="05-Import" />
