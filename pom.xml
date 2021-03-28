@@ -23,6 +23,7 @@
         <module>12-BeanDefinitionRegistryPostProcessor</module>
         <module>13-ApplicationListener</module>
         <module>14-EventListener</module>
+        <module>15-AOP</module>
     </modules>
 
     <dependencies>
@@ -37,6 +38,19 @@
             <version>4.12</version>
             <scope>test</scope>
         </dependency>
+<!--        <dependency>-->
+<!--            <groupId>org.springframework</groupId>-->
+<!--            <artifactId>spring-aspects</artifactId>-->
+<!--            <version>4.3.12.RELEASE</version>-->
+<!--        </dependency>-->
+
+
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-aspects</artifactId>
+            <version>5.0.0.RELEASE</version>
+        </dependency>
+
     </dependencies>
 
 

@@ -10,6 +10,7 @@
         <module name="04-Conditional" />
         <module name="10-Profile" />
         <module name="11-BeanFactoryPostProcessor" />
+        <module name="15-AOP" />
         <module name="06-FactoryBean" />
         <module name="08-Autowired" />
         <module name="02-ComponentScan" />
@@ -18,6 +19,7 @@
         <module name="12-BeanDefinitionRegistryPostProcessor" />
         <module name="14-EventListener" />
         <module name="07-BeanLifeCycle" />
+        <module name="12-ApplicationListener" />
         <module name="13-ApplicationListener" />
         <module name="05-Import" />
       </profile>

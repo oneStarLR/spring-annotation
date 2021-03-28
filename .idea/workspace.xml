@@ -23,7 +23,55 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="41788e9c-adfd-4588-9d6a-9b0572eddfc1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/01-Configuration/target/classes/com/onestar/bean/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/01-Configuration/target/classes/com/onestar/bean/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Configuration/target/classes/com/onestar/bean/User2.class" beforeDir="false" afterPath="$PROJECT_DIR$/01-Configuration/target/classes/com/onestar/bean/User2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Configuration/target/classes/com/onestar/config/AppConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/01-Configuration/target/classes/com/onestar/config/AppConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Configuration/target/test-classes/MainTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/01-Configuration/target/test-classes/MainTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-Scope/target/classes/com/onestar/bean/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/03-Scope/target/classes/com/onestar/bean/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-Scope/target/classes/com/onestar/config/AppConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/03-Scope/target/classes/com/onestar/config/AppConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-Scope/target/test-classes/MainTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/03-Scope/target/test-classes/MainTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Conditional/target/classes/com/onestar/bean/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/04-Conditional/target/classes/com/onestar/bean/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Conditional/target/classes/com/onestar/condition/LinuxCondition.class" beforeDir="false" afterPath="$PROJECT_DIR$/04-Conditional/target/classes/com/onestar/condition/LinuxCondition.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Conditional/target/classes/com/onestar/condition/WindowsCondition.class" beforeDir="false" afterPath="$PROJECT_DIR$/04-Conditional/target/classes/com/onestar/condition/WindowsCondition.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Conditional/target/classes/com/onestar/config/AppConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/04-Conditional/target/classes/com/onestar/config/AppConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Conditional/target/test-classes/MainTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/04-Conditional/target/test-classes/MainTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Import/target/classes/bean/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/05-Import/target/classes/bean/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Import/target/classes/bean/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/05-Import/target/classes/bean/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Import/target/classes/bean/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/05-Import/target/classes/bean/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Import/target/classes/config/AppConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/05-Import/target/classes/config/AppConfig.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/05-Import/target/classes/importSelector/MyImportBeanDefinitionRegistrar.class" beforeDir="false" afterPath="$PROJECT_DIR$/05-Import/target/classes/importSelector/MyImportBeanDefinitionRegistrar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Import/target/classes/importSelector/MyImportSelector.class" beforeDir="false" afterPath="$PROJECT_DIR$/05-Import/target/classes/importSelector/MyImportSelector.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Import/target/test-classes/MainTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/05-Import/target/test-classes/MainTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-FactoryBean/target/classes/bean/Color.class" beforeDir="false" afterPath="$PROJECT_DIR$/06-FactoryBean/target/classes/bean/Color.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-FactoryBean/target/classes/bean/ColorFactoryBean.class" beforeDir="false" afterPath="$PROJECT_DIR$/06-FactoryBean/target/classes/bean/ColorFactoryBean.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-FactoryBean/target/classes/config/AppConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/06-FactoryBean/target/classes/config/AppConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-FactoryBean/target/test-classes/MainTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/06-FactoryBean/target/test-classes/MainTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Autowired/target/classes/config/AppConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/08-Autowired/target/classes/config/AppConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Autowired/target/classes/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/08-Autowired/target/classes/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Autowired/target/classes/dao/UserDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/08-Autowired/target/classes/dao/UserDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Autowired/target/classes/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/08-Autowired/target/classes/service/UserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Autowired/target/test-classes/MainTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/08-Autowired/target/test-classes/MainTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-Aware/target/classes/bean/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/09-Aware/target/classes/bean/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-Aware/target/classes/config/AppConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/09-Aware/target/classes/config/AppConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-Aware/target/test-classes/MainTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/09-Aware/target/test-classes/MainTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10-Profile/target/classes/config/AppConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/10-Profile/target/classes/config/AppConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10-Profile/target/test-classes/MainTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/10-Profile/target/test-classes/MainTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11-BeanFactoryPostProcessor/target/classes/bean/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/11-BeanFactoryPostProcessor/target/classes/bean/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11-BeanFactoryPostProcessor/target/classes/config/AppConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/11-BeanFactoryPostProcessor/target/classes/config/AppConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11-BeanFactoryPostProcessor/target/classes/postprocessor/MyBeanFactoryPostProcessor.class" beforeDir="false" afterPath="$PROJECT_DIR$/11-BeanFactoryPostProcessor/target/classes/postprocessor/MyBeanFactoryPostProcessor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11-BeanFactoryPostProcessor/target/test-classes/MainTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/11-BeanFactoryPostProcessor/target/test-classes/MainTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12-BeanDefinitionRegistryPostProcessor/target/classes/bean/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/12-BeanDefinitionRegistryPostProcessor/target/classes/bean/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12-BeanDefinitionRegistryPostProcessor/target/classes/config/AppConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/12-BeanDefinitionRegistryPostProcessor/target/classes/config/AppConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12-BeanDefinitionRegistryPostProcessor/target/classes/postprocessor/MyBeanDefinitionRegistryPostProcessor.class" beforeDir="false" afterPath="$PROJECT_DIR$/12-BeanDefinitionRegistryPostProcessor/target/classes/postprocessor/MyBeanDefinitionRegistryPostProcessor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12-BeanDefinitionRegistryPostProcessor/target/test-classes/MainTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/12-BeanDefinitionRegistryPostProcessor/target/test-classes/MainTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/13-ApplicationListener/target/classes/config/AppConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/13-ApplicationListener/target/classes/config/AppConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/13-ApplicationListener/target/classes/listener/MyApplicationListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/13-ApplicationListener/target/classes/listener/MyApplicationListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/13-ApplicationListener/target/test-classes/MainTest$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/13-ApplicationListener/target/test-classes/MainTest$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/13-ApplicationListener/target/test-classes/MainTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/13-ApplicationListener/target/test-classes/MainTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/14-EventListener/target/classes/config/AppConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/14-EventListener/target/classes/config/AppConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/14-EventListener/target/classes/listener/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/14-EventListener/target/classes/listener/UserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/14-EventListener/target/test-classes/MainTest$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/14-EventListener/target/test-classes/MainTest$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/14-EventListener/target/test-classes/MainTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/14-EventListener/target/test-classes/MainTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +104,7 @@
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="localRepository" value="E:\java-environment\maven-repository" />
-        <option name="mavenHome" value="D:\DevelopSoftware\IDEA2020.2\IntelliJ IDEA 2020.2\plugins\maven\lib\maven3" />
+        <option name="mavenHome" value="E:\DevelopSoftware\IDEA2020.2\IntelliJ IDEA 2020.2\plugins\maven\lib\maven3" />
         <option name="userSettingsFile" value="E:\java-environment\apache-maven-3.5.2\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
@@ -85,11 +133,11 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Project/v-cloud/v-cloud/pom.xml" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -97,40 +145,43 @@
       <recent name="com.onestar.bean" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.MainTest.TestMain (6)">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.MainTest.TestMain (15)">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="12-ApplicationListener" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MainTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainTest.TestMain (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="13-ApplicationListener" />
+    <configuration name="MainTest.TestMain (15)" type="JUnit" factoryName="JUnit" temporary="true">
+      <module name="15-AOP" />
+      <useClassPathOnly />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="MainTest" />
       <option name="METHOD_NAME" value="TestMain" />
       <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="MainTest.TestMain (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="10-Profile" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="MainTest" />
-      <option name="METHOD_NAME" value="TestMain" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MainTest.TestMain (4)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="09-Aware" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="MainTest" />
       <option name="METHOD_NAME" value="TestMain" />
@@ -160,19 +211,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.MainTest.TestMain (4)" />
       <item itemvalue="JUnit.MainTest.TestMain (2)" />
       <item itemvalue="JUnit.MainTest.TestMain (5)" />
-      <item itemvalue="JUnit.MainTest.TestMain (1)" />
       <item itemvalue="JUnit.MainTest.TestMain (6)" />
+      <item itemvalue="JUnit.MainTest" />
+      <item itemvalue="JUnit.MainTest.TestMain (15)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MainTest.TestMain (15)" />
         <item itemvalue="JUnit.MainTest.TestMain (6)" />
-        <item itemvalue="JUnit.MainTest.TestMain (1)" />
+        <item itemvalue="JUnit.MainTest" />
         <item itemvalue="JUnit.MainTest.TestMain (5)" />
         <item itemvalue="JUnit.MainTest.TestMain (2)" />
-        <item itemvalue="JUnit.MainTest.TestMain (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -267,11 +318,11 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="885" y="447" key="#com.intellij.codeInsight.template.impl.EditVariableDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1611650058393" />
-    <state x="798" y="191" width="1146" height="708" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1615876475496">
+    <state x="798" y="191" width="1146" height="737" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1616933173657">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="410" y="166" width="1146" height="708" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1612939219940" />
-    <state x="798" y="191" width="1146" height="708" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1615876475496" />
+    <state x="798" y="191" width="1146" height="737" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1616933173657" />
     <state x="710" y="154" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1612930031891">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -293,35 +344,35 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="540" height="466" key="DebuggerActiveHint/0.0.2560.1400@0.0.2560.1400" timestamp="1616482225065" />
-    <state x="569" y="355" key="FileChooserDialogImpl" timestamp="1614246201056">
+    <state x="569" y="355" key="FileChooserDialogImpl" timestamp="1616929918991">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="427" y="264" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1612925422327" />
-    <state x="569" y="355" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1614246201056" />
-    <state width="2517" height="465" key="GridCell.Tab.0.bottom" timestamp="1616575319910">
+    <state x="569" y="355" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1616929918991" />
+    <state width="2507" height="325" key="GridCell.Tab.0.bottom" timestamp="1616947714305">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1228" height="421" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1611936117814" />
     <state width="1867" height="332" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1612982842728" />
-    <state width="2517" height="465" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1616575319910" />
-    <state width="2517" height="465" key="GridCell.Tab.0.center" timestamp="1616575319910">
+    <state width="2507" height="325" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1616947714305" />
+    <state width="2507" height="325" key="GridCell.Tab.0.center" timestamp="1616947714304">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1228" height="421" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1611936117814" />
     <state width="1867" height="332" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1612982842728" />
-    <state width="2517" height="465" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1616575319910" />
-    <state width="2517" height="465" key="GridCell.Tab.0.left" timestamp="1616575319910">
+    <state width="2507" height="325" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1616947714304" />
+    <state width="2507" height="325" key="GridCell.Tab.0.left" timestamp="1616947714304">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1228" height="421" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1611936117814" />
     <state width="1867" height="332" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1612982842728" />
-    <state width="2517" height="465" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1616575319910" />
-    <state width="2517" height="465" key="GridCell.Tab.0.right" timestamp="1616575319910">
+    <state width="2507" height="325" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1616947714304" />
+    <state width="2507" height="325" key="GridCell.Tab.0.right" timestamp="1616947714305">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1228" height="421" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1611936117814" />
     <state width="1867" height="332" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1612982842728" />
-    <state width="2517" height="465" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1616575319910" />
+    <state width="2507" height="325" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1616947714305" />
     <state width="2517" height="465" key="GridCell.Tab.1.bottom" timestamp="1616575319773">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -342,19 +393,23 @@
     </state>
     <state width="1867" height="332" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1612982842728" />
     <state width="2517" height="465" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1616575319773" />
+    <state x="1397" y="384" width="1046" height="646" key="IDE.errors.dialog" timestamp="1616934791388">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1397" y="384" width="1046" height="646" key="IDE.errors.dialog/0.0.2560.1400@0.0.2560.1400" timestamp="1616934791388" />
     <state x="851" y="0" width="858" height="885" key="Registry" timestamp="1611644547224">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="851" y="0" width="858" height="885" key="Registry/0.0.2560.1400@0.0.2560.1400" timestamp="1611644547224" />
-    <state x="664" y="258" key="SettingsEditor" timestamp="1616554859710">
+    <state x="664" y="258" key="SettingsEditor" timestamp="1616933422076">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="498" y="157" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1612925425243" />
-    <state x="664" y="258" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1616554859710" />
-    <state x="542" y="250" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1610720999619">
+    <state x="664" y="258" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1616933422076" />
+    <state x="542" y="250" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1616931544868">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="542" y="250" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1610720999619" />
+    <state x="542" y="250" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1616931544868" />
     <state x="1083" y="613" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1614130107191">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -363,11 +418,11 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="996" y="491" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1614241919764" />
-    <state x="478" y="282" key="new project wizard" timestamp="1616551938405">
+    <state x="478" y="282" key="new project wizard" timestamp="1616925731952">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="316" y="205" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1612752194846" />
-    <state x="478" y="282" key="new project wizard/0.0.2560.1400@0.0.2560.1400" timestamp="1616551938405" />
+    <state x="478" y="282" key="new project wizard/0.0.2560.1400@0.0.2560.1400" timestamp="1616925731952" />
     <state x="859" y="308" width="840" height="1034" key="search.everywhere.popup" timestamp="1616059337960">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
